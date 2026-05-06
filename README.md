@@ -8,4 +8,5 @@
 
 ## ハンズオン資料 (Google Colab)
 
-- [**`handson_notebook.ipynb`**](handson_notebook.ipynb): 学生が実際に手を動かして学ぶための、Google Colab 用 Jupyter Notebook です。API の基礎（cURLによる取得）から、`google-genai` SDK を使った画像生成（`Modality.IMAGE`）とファイル保存までを含みます。
+- [**`handson_notebook.ipynb`**](handson_notebook.ipynb) (日本語版): 学生が実際に手を動かして学ぶための、Google Colab 用 Jupyter Notebook です。API の基礎（cURLによる取得）から、`google-genai` SDK を使った画像生成（`Modality.IMAGE`）とファイル保存までを含みます。
+- [**`handson_notebook_en.ipynb`**](handson_notebook_en.ipynb) (English Version): The Jupyter Notebook for Google Colab. Covers API basics to image generation using the `google-genai` SDK.
